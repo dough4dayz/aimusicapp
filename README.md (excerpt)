@@ -1,0 +1,8 @@
+# AI Sheet‑Music Finder (MVP)
+
+Searches DuckDuckGo for public‑domain sheet‑music links, grabs the first MusicXML, and renders it with three toggleable views.
+
+### Quick start
+```bash
+npm install
+npm run dev
